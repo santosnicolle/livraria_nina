@@ -1,0 +1,13 @@
+Olá, para o melhor funcionamento do projeto "Livraria Nina" é necessário:
+
+1. Fazer a instalação da biblioteca "bcrypt"
+
+2. Tenha o usuário admin caso queira testar as funções só dispóníveis a ele, de adicionar livros ou removê-los por completo.
+Usuario: chefe
+Senha: admin
+
+3. Dentro do nosso banco temos já criado um usuário funcionario com um cargo de "user" que é destinado só a essa categoria:
+Usuario: funcionario
+Senha: semiadmin
+
+4. Para a exclusão dos livros é necessário saber o ID do livro que quer excluir, então é necessário verificar dentro do banco de dados.
