@@ -11,3 +11,5 @@ Usuario: funcionario
 Senha: semiadmin
 
 4. Para a exclusão dos livros é necessário saber o ID do livro que quer excluir, então é necessário verificar dentro do banco de dados.
+
+Em caso de perda do arquivo ".py", nosso código está disponível junto das instruções no github: https://github.com/santosnicolle/livraria_nina
